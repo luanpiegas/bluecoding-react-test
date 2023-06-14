@@ -1,0 +1,7 @@
+.gifs {
+  @apply flex flex-wrap justify-center gap-3;
+}
+
+.gif-still {
+  @apply w-80 h-80 object-cover;
+}
